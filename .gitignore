@@ -1,2 +1,5 @@
 .DS_Store
 Source/Native/build
+Source/Managed/bin
+Source/Managed/obj
+
